@@ -70,3 +70,4 @@ export { default as wireit } from './wireit/index.js';
 export { default as wrangler } from './wrangler/index.js';
 export { default as xo } from './xo/index.js';
 export { default as yorkie } from './yorkie/index.js';
+export { default as reactAppRewired } from './react-app-rewired/index.js';

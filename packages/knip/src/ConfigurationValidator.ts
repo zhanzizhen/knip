@@ -78,6 +78,7 @@ export const pluginSchema = z.union([
 ]);
 
 const pluginsSchema = z.object({
+  'react-app-rewired': pluginSchema,
   astro: pluginSchema,
   angular: pluginSchema,
   ava: pluginSchema,
